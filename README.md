@@ -82,7 +82,7 @@ In conclusion, the Iris flower classification project successfully employed Rand
 
 ## Author
 
-- [Arindam Paul](https://www.linkedin.com/in/arindam-paul-19a085187/)
+- [sanagapalli harini](https://www.linkedin.com/in/sanagapalli-harini-51048928a/)
 
 ---
 
